@@ -1,0 +1,20 @@
+.controller {
+  width: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.projector {
+  position: absolute;
+  top: 3vw;
+  right: 3vw;
+}
+
+.control-pdf {
+  position: absolute;
+  top: 3vw;
+  left: 3vw;
+}
+.control-pdf button {
+  margin: 0 5px;
+}
